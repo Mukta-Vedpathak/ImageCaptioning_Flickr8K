@@ -54,8 +54,9 @@ All core functionality is defined in `main.py` and `evaluate.py`. The steps incl
 ## ✅ How to Use
 
 1. Download the dataset and place images and text files in appropriate folders.
-2. Run `main.py` to preprocess, extract features, and train the model.
-3. Run `evaluate.py` to generate captions and evaluate BLEU scores.
+2. Install "requirements.txt"
+3. Run `main.py` to preprocess, extract features, and train the model.
+4. Run `evaluate.py` to generate captions and evaluate BLEU scores.
 
 > ⚙️ All necessary functions, training logic, and evaluation steps are explained in the documentation provided in this repository.
 
