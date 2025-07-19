@@ -33,6 +33,9 @@ All core functionality is defined in `main.py` and `evaluate.py`. The steps incl
 - Generate captions for test images and compare with ground truth.
 - Compute BLEU-1 to BLEU-4 scores for evaluation.
 
+### 🔹 In `test.py`:
+- Run the command python test.py -i "path_to_image" to generate a caption for an image
+
 ---
 
 ## 📈 Results
